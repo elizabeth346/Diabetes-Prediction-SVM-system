@@ -27,7 +27,7 @@ The goal of this project is to create a simple yet effective tool for predicting
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/Elizabeth346/Diabetes-Prediction-SVM.git
+git clone https://github.com/elizabeth346/Diabetes-Prediction-SVM.git
 
 css
 Copy code
